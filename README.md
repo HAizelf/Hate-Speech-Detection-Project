@@ -50,14 +50,6 @@ We used the **HASOC 2021 Hinglish dataset**, which is split as follows:
     - **HingRoBERTa** (trained on Hinglish code-mixed data)
     - **HingRoBERTa-mixed** (trained on both Roman and Devanagari scripts)
 
-### Model Architecture
-
-1. **ML-based Model with TF-IDF**  
-   ![ML Model Architecture](path_to_ml_architecture_image)
-
-2. **BERT-based Models**  
-   ![BERT Model Architecture](path_to_bert_architecture_image)
-
 ## Results and Analysis
 
 | Model               | Learning Rate | F1-Score |

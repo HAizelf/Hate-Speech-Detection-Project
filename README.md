@@ -78,20 +78,12 @@ Future work could focus on:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hate-detection-hinglish
+    git clone https://github.com/HAizelf/Hate-Speech-Detection-Project.git
     ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Preprocess the dataset and train the models:
-    ```bash
-    python train.py
-    ```
-4. Evaluate the model on the test set:
-    ```bash
-    python evaluate.py
-    ```
+
+2. The data is in the form of two csvs in ./data
+
+3. You can run the notebooks of the implemented models in Baseline, Base-English-Roberta, and HingRoBERTa Multilingual directories respectively 
 
 ## References
 
